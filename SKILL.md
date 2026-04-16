@@ -218,3 +218,4 @@ English documentation is available in [en-US](en-US/) directory.
 - Check [guide/indicator.md](guide/indicator.md) for technical indicators
 - See [api/chart/init.md](api/chart/init.md) for full API reference
 - Explore [pro/introduction.md](pro/introduction.md) for Pro features
+- See [index.md](index.md) for quick guide
